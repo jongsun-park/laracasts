@@ -3119,15 +3119,3 @@ public function previousUrl()
   return $_SERVER['HTTP_REFERER'];
 }
 ```
-
-# SECTION 7 Meet Composer
-
-## 47 **[Composer and Free Autoloading](https://laracasts.com/series/php-for-beginners-2023-edition/episodes/47)**
-
-**I think it's time to move on to a new chapter and finally discuss Composer. Composer is a world-class dependency manager that allows us to declare any and all libraries or packages that our project requires. Then, with a single command, we can install them in seconds. Even better, it ships with an excellent autoloader.EPISODE 4713m 12s48**
-
-## 48 **[Install Two Composer Packages: Collections and PestPHP](https://laracasts.com/series/php-for-beginners-2023-edition/episodes/48)**
-
-**Now that we've learned how to install Composer, itself, the next step is to pull in some packages! For demonstration purposes, we'll install two separate packages.EPISODE 4815m 35s**
-
-views/note-create.view.php
